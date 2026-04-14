@@ -4,13 +4,13 @@
 ## 2. óra
 1. ✅ Hisztogram-kiegyenlítés szürkeskálás képeken (a képek beolvasása és kiírása is része a feladatnak, képformátum: pgm)
 
-2. Átlagoló szűrő szürkeskálás képeken (a képek beolvasása és kiírása is része a feladatnak, a képformátum: pgm). A program paramétere a sablon mérete: 3x3, 5x5 vagy 7x7, illetve a hiányzó pozíciók értelmezése: csak teljes illeszkedés van, hiányzó elemek nullák, hiányzó elemek kimaradnak.
+2. ✅ Átlagoló szűrő szürkeskálás képeken (a képek beolvasása és kiírása is része a feladatnak, a képformátum: pgm). A program paramétere a sablon mérete: 3x3, 5x5 vagy 7x7, illetve a hiányzó pozíciók értelmezése: csak teljes illeszkedés van, hiányzó elemek nullák, hiányzó elemek kimaradnak.
 
-3.✅ Medián szűrő szürkeskálás képeken (a képek beolvasása és kiírása is része a feladatnak, a képformátum: pgm). A program paramétere a sablon mérete: 3x3, 5x5 vagy 7x7, illetve a hiányzó pozíciók értelmezése: csak teljes illeszkedés van, hiányzó elemek nullák, hiányzó elemek kimaradnak.
+3. ✅ Medián szűrő szürkeskálás képeken (a képek beolvasása és kiírása is része a feladatnak, a képformátum: pgm). A program paramétere a sablon mérete: 3x3, 5x5 vagy 7x7, illetve a hiányzó pozíciók értelmezése: csak teljes illeszkedés van, hiányzó elemek nullák, hiányzó elemek kimaradnak.
 
-4. Képek átlagolása és mediánja (a képek beolvasása és kiírása is része a feladatnak, a képformátum: pgm).
+4. ✅ Képek átlagolása és mediánja (a képek beolvasása és kiírása is része a feladatnak, a képformátum: pgm).
 
-5. Küszöbölés szűrkeskálás képeken (a képek beolvasása és kiírása is része a feladatnak, a képformátum: pgm)
+5. ✅ Küszöbölés szűrkeskálás képeken (a képek beolvasása és kiírása is része a feladatnak, a képformátum: pgm)
 
 ## 3. óra
 6. Morfológiai operátor (erózió, dilatáció, nyitás vagy zárás). Csak egyet kell megvalósítani. A képek beolvasására és kimentésére lehet használni az OpenCV függvényeket.
@@ -35,3 +35,8 @@
 14. Sablonozás alapú éldetektor megvalósítása. OpenCV minden függvénye használható, kivéve az éldetektorokat.
 
 15. Három éldetektor kiválasztása, aminek az eredményeit kell páronként összehasonlítani. Az OpenCV bármilyen függvénye használható.
+
+
+
+python3 -m venv venv
+pip3 install numpy
