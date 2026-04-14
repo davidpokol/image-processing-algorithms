@@ -13,11 +13,11 @@
 5. ✅ Küszöbölés szűrkeskálás képeken (a képek beolvasása és kiírása is része a feladatnak, a képformátum: pgm)
 
 ## 3. óra
-6. Morfológiai operátor (erózió, dilatáció, nyitás vagy zárás). Csak egyet kell megvalósítani. A képek beolvasására és kimentésére lehet használni az OpenCV függvényeket.
+6. ✅ Morfológiai operátor (erózió, dilatáció, nyitás vagy zárás). Csak egyet kell megvalósítani. A képek beolvasására és kimentésére lehet használni az OpenCV függvényeket. (❓ **bináris a függvény, de az output nem (0,255)** ❓)
 
-7. Hit-or-Miss transzformáció. A képek beolvasására és kimentésére lehet használni az OpenCV függvényeket.
+7. ✅ Hit-or-Miss transzformáció. A képek beolvasására és kimentésére lehet használni az OpenCV függvényeket.
 
-8. Szürkeskálás dilatáció és erózió. A képek beolvasására és kimentésére lehet használni az OpenCV függvényeket.
+8. ✅ Szürkeskálás dilatáció és erózió. A képek beolvasására és kimentésére lehet használni az OpenCV függvényeket. (❓ **iterációt kell beletenni** ❓)
 
 ## 4. óra
 9. Fourier-transzformáció és annak inverzének kiszámítása. Bemenő adat egy max. 15x15-ös mátrix, amelynek elemei 8 bites nemnegatív egész számok. A kimenet a számítás eredményét tartalmazó mátrix.
