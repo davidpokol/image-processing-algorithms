@@ -88,4 +88,4 @@ if __name__ == "__main__":
     # cv2.imwrite("eroded_cv.pgm", cv2.erode(img, np.ones((3,3), dtype=np.uint8), iterations=5))
     # cv2.imwrite("dilated_cv.pgm", cv2.dilate(img, np.ones((3,3), dtype=np.uint8), iterations=5))
 
-    print("Szűrés kész.")
+    print("Szürkeskálás dilatáció kész.")
