@@ -42,5 +42,9 @@
 
 17. ✅ Tetszőleg vázkijelölő módszer implementálása.
 
+
+### how to a install dependencies in virtual environment? 
+```python
 python3 -m venv venv
 pip3 install numpy
+```
