@@ -36,7 +36,11 @@
 
 15. ✅ Három éldetektor kiválasztása, aminek az eredményeit kell páronként összehasonlítani. Az OpenCV bármilyen függvénye használható.
 
+## 7. óra
 
+16. ✅ Hough-transzformáció alkalmazása téglalap irányának meghatározására.
+
+17. ✅ Tetszőleg vázkijelölő módszer implementálása.
 
 python3 -m venv venv
 pip3 install numpy
