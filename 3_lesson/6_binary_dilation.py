@@ -2,7 +2,6 @@ import cv2
 import numpy as np
 
 def binary_dilation(img):
-    # biztos bináris
     img = (img > 0).astype(np.uint8)
 
     padded = np.pad(img, 1, mode='constant', constant_values=0)
@@ -25,7 +24,6 @@ def binary_dilation(img):
                     break
 
             out[i, j] = value
-
     return out
 
 if __name__ == "__main__":
