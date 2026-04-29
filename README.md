@@ -1,5 +1,8 @@
+# Programozási feladatok Képfeldolgozás és orvosi képalkotás (INMPM9920E) kurzusra.
 
 [pgm images](https://people.sc.fsu.edu/~jburkardt/data/pgma/pgma.html)
+
+9, 12, 13-as feladatot nem kellenek ZH-ra‼️
 
 ## 2. óra
 1. [x] Hisztogram-kiegyenlítés szürkeskálás képeken (a képek beolvasása és kiírása is része a feladatnak, képformátum: pgm)
@@ -19,17 +22,10 @@
 
 8. [x] Szürkeskálás dilatáció és erózió. A képek beolvasására és kimentésére lehet használni az OpenCV függvényeket.
 
-## 4. óra
-9. [x] Fourier-transzformáció és annak inverzének kiszámítása. Bemenő adat egy max. 15x15-ös mátrix, amelynek elemei 8 bites nemnegatív egész számok. A kimenet a számítás eredményét tartalmazó mátrix.
-
 ## 5. óra
 10. [x] Frekvenciatérbeli szűrés az ILPF és IHPF segítségével. A bemenő adat a kép mellett a vágási frekvencia. A szűrés kivételével használható az OpenCV függvénykönyvtár.
 
 11. [x] Frekvenciatérbeli szűrés az IBPF és IBSF segítségével. A bemenő adat a kép mellett a két vágási frekvencia. A szűrés kivételével használható az OpenCV függvénykönyvtár.
-
-12. [ ] Szűrők összehasonlítása. Az ILPF, BLPF és GLPF, illetve a IHPF, BHPF és GHPF összehasonlítása páronkénti különbségképek segítségével. Az OpenCV függvénykönyvtár minden függvénye használható.
-
-13. [ ] Szűrők összehasonlítása. Az IBPF, BBPF és GBPF, illetve a IBSF, BBSF és GBSF összehasonlítása páronkénti különbségképek segítségével. Az OpenCV függvénykönyvtár minden függvénye használható.
 
 ## 6. óra
 14. [x] Sablonozás alapú éldetektor megvalósítása. OpenCV minden függvénye használható, kivéve az éldetektorokat.
