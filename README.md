@@ -2,7 +2,7 @@
 
 [pgm images](https://people.sc.fsu.edu/~jburkardt/data/pgma/pgma.html)
 
-9, 12, 13-as feladatot nem kellenek ZH-ra‼️
+9, 12, 13-as feladatok nem kellenek ZH-ra‼️
 
 ## 2. óra
 1. [x] Hisztogram-kiegyenlítés szürkeskálás képeken (a képek beolvasása és kiírása is része a feladatnak, képformátum: pgm)
